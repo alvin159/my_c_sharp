@@ -1,0 +1,9 @@
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\bin\Debug\Moodle Exercise 2.exe.config
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\bin\Debug\Moodle Exercise 2.exe
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\bin\Debug\Moodle Exercise 2.pdb
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\obj\Debug\Moodle Exercise 2.csprojAssemblyReference.cache
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\obj\Debug\Moodle_Exercise_2.Form1.resources
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\obj\Debug\Moodle_Exercise_2.Properties.Resources.resources
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\obj\Debug\Moodle Exercise 2.csproj.GenerateResource.cache
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\obj\Debug\Moodle Exercise 2.exe
+C:\Users\Alvin\source\repos\Moodle Exercise 2\Moodle Exercise 2\obj\Debug\Moodle Exercise 2.pdb
